@@ -84,3 +84,6 @@
 - DDR2 Memory Controller (URP2022F): https://github.com/scalable-arch/URP2022F-assignment
 - DRAM Controller: https://github.com/scalable-arch/DRAMController
 - URP2022F: https://github.com/scalable-arch/URP2022F
+
+# Homepage
+- [```Lab Homepage```](https://github.com/scalable-arch/scalable-arch.github.io)
