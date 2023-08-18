@@ -11,7 +11,7 @@
 - [CXL Controller](https://github.com/scalable-arch/CXLController)
 
 ## [IITP] NPU
-- [SMT NPU(https://github.com/scalable-arch/SMTNPU)
+- [SMT NPU](https://github.com/scalable-arch/SMTNPU)
 
 ## Samsung
 - [2022 samsung project](https://github.com/scalable-arch/2022_samsung_project)
