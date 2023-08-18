@@ -24,6 +24,6 @@
 
 # Class repositories
 
-## Normal class
+## Regular classes
 
-## Undergraudate Research Program
+## Undergraudate Research Programs
