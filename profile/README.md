@@ -1,4 +1,4 @@
-# Research repositories
+# Research Repositories
 
 
 ## SW
@@ -22,8 +22,8 @@
 - [```AIDCLite```](https://github.com/scalable-arch/AIDCLite): AI Data Compression Lite (AHB2 interface) IP
 
 
-# Class repositories
+# Class Repositories
 
-## Regular classes
+## Regular Classes
 
 ## Undergraudate Research Programs
