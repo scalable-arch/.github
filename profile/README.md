@@ -51,10 +51,12 @@
 - [ACCESS'23 SQUID](https://github.com/scalable-arch/ACCESS_23-SQUID)
 - [ITC'CSCC23 EPA ECC](https://github.com/scalable-arch/ITC-CSCC_23-EPA_ECC/tree/master/1_Reliability)
 - [MRSim_original](https://github.com/scalable-arch/MRSim_original)
+- [ECC-exercise](https://github.com/scalable-arch/ECC-exercise)
 
 ### DNN
 - [JOK'23 DNN Retraining](https://github.com/scalable-arch/JOK_23-DNN_Retraining_Method_Reducing_Accuracy_Degradation)
 - [Network](https://github.com/scalable-arch/Network)
+- [DNN-exercise](https://github.com/scalable-arch/DNN-exercise)
 
 ## HW (RTL)
 
