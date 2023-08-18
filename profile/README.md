@@ -62,9 +62,9 @@
 
 - [```rtl-actions```](https://github.com/scalable-arch/rtl-actions): GitHub Actions for ASIC front-end development flows
 - [```interfaces```](https://github.com/scalable-arch/interfaces): SystemVerilog interfaces, verification IPs, documents for standard interfaces (e.g., AMBA AXI, PCIe, CXL)
-- [CAL'22] MPC_RTL: https://github.com/scalable-arch/CAL_22-MPC_RTL
-- [SC'23] Unity ECC: https://github.com/scalable-arch/SC_23-Unity-ECC/tree/main/4_hardware_overhead_synthesis
-- [ACCESS'22] SEC-BADAEC: https://github.com/scalable-arch/ACCESS_22-SEC_BADAEC/tree/master/2_Hardware_overheads
+- ['''CAL'22 MPC_RTL'''](https://github.com/scalable-arch/CAL_22-MPC_RTL)
+- ['''SC'23 Unity ECC'''](https://github.com/scalable-arch/SC_23-Unity-ECC/tree/main/4_hardware_overhead_synthesis)
+- ['''ACCESS'22 SEC-BADAEC](https://github.com/scalable-arch/ACCESS_22-SEC_BADAEC/tree/master/2_Hardware_overheads)
 - [ACCESS'23] SQUID ENCODER: https://github.com/scalable-arch/ACCESS_23-SQUID/tree/main/SQUID_ENCODER
 - [ACCESS'23] SQUID DECODER: https://github.com/scalable-arch/ACCESS_23-SQUID/tree/main/SQUID_DECODER
 - [ITC'CSCC23] EPA ECC: https://github.com/scalable-arch/ITC-CSCC_23-EPA_ECC/tree/master/2_Hardware_overheads
