@@ -76,7 +76,7 @@
 # Class Repositories
 
 ## Regular Classes
-- [SoC Design and Practice](https://github.com/scalable-arch/ECE4278)
+- [SoC Design and Practice](https://github.com/ECE4278)
 
 ## Undergraduate Research Programs
 - [ECC-exercise](https://github.com/scalable-arch/ECC-exercise)
