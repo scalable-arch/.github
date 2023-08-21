@@ -6,9 +6,9 @@
 ## [IITP] Smart ECC
 
 ## [RCMS] CXL
-- [CXL CACHE](https://github.com/scalable-arch/CXL_CACHE)
-- [CMSS](https://github.com/scalable-arch/CMSS)
-- [CXL Controller](https://github.com/scalable-arch/CXLController)
+- [```CXL CACHE```](https://github.com/scalable-arch/CXL_CACHE)
+- [```CMSS```](https://github.com/scalable-arch/CMSS)
+- [```CXL Controller```](https://github.com/scalable-arch/CXLController)
 
 ## [IITP] NPU
 - [SMT NPU](https://github.com/scalable-arch/SMTNPU)
