@@ -1,7 +1,7 @@
 # Project Repositories
 
 ## [IITP] Multi-Device charging
-- [AIDCLite](https://github.com/scalable-arch/AIDCLite)
+- [```AIDCLite```](https://github.com/scalable-arch/AIDCLite)
 
 ## [IITP] Smart ECC
 
