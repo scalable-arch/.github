@@ -78,6 +78,7 @@
 # Class Repositories
 
 ## Regular Classes
+- [Digital System Design](https://github.com/scalable-arch/Digital_System_Design)
 - [SoC Design and Practice](https://github.com/ECE4278)
 
 ## Undergraduate Research Programs
