@@ -49,6 +49,7 @@
 - [ACCESS'22 SEC-BADAEC](https://github.com/scalable-arch/ACCESS_22-SEC_BADAEC/tree/master/1_Reliability/RS_CODE_AMD/MRSim)
 - [ACCESS'22 DRC](https://github.com/scalable-arch/ACCESS_22-DRC)
 - [ACCESS'23 SQUID](https://github.com/scalable-arch/ACCESS_23-SQUID)
+- [ISOCC'23 Fault Bound (Synergistic Integration)](https://github.com/scalable-arch/ISOCC_23-Fault-Bound)
 - [ITC'CSCC23 EPA ECC](https://github.com/scalable-arch/ITC-CSCC_23-EPA_ECC/tree/master/1_Reliability)
 - [MRSim_original](https://github.com/scalable-arch/MRSim_original)
 - [ECC-exercise](https://github.com/scalable-arch/ECC-exercise)
