@@ -79,8 +79,9 @@
 # Class Repositories
 
 ## Regular Classes
-- [Digital System Design](https://github.com/scalable-arch/Digital_System_Design)
-- [SoC Design and Practice](https://github.com/ECE4278)
+- [Digital System Design - Spring 2022](https://github.com/scalable-arch/Digital_System_Design)
+- [SoC Design and Practice - Fall 2022](https://github.com/ECE4278)
+- [SoC Design and Practice - Fall 2023](https://github.com/2023-Fall-ECE4278)
 
 ## Undergraduate Research Programs
 - [ECC-exercise](https://github.com/scalable-arch/ECC-exercise)
