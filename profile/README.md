@@ -84,6 +84,7 @@
 - [SoC Design and Practice - Fall 2023](https://github.com/2023-Fall-ECE4278)
 
 ## Undergraduate Research Programs
+- [DRAM-exercise](https://github.com/scalable-arch/DRAM-exercise)
 - [ECC-exercise](https://github.com/scalable-arch/ECC-exercise)
 - [DNN-exercise](https://github.com/scalable-arch/DNN-exercise)
 - [DDR2 Memory Controller (URP2022F)](https://github.com/scalable-arch/URP2022F-assignment)
