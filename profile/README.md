@@ -44,6 +44,7 @@
 - [SC'23 Unity ECC](https://github.com/scalable-arch/SC_23-Unity-ECC/tree/main/1_Performance_DRAMenergy)
 
 ### ECC
+- [DATE'24 SELCC](https://github.com/scalable-arch/DATE_24-SELCC)
 - [SC'23 Unity ECC_Error Scenario](https://github.com/scalable-arch/SC_23-Unity-ECC/tree/main/2_Error_Scenario)
 - [SC'23 Unity ECC_Failure probability Against Raw BER](https://github.com/scalable-arch/SC_23-Unity-ECC/tree/main/3_DUE_SDC_probability_Against_Raw_BER)
 - [ACCESS'22 SEC-BADAEC](https://github.com/scalable-arch/ACCESS_22-SEC_BADAEC/tree/master/1_Reliability/RS_CODE_AMD/MRSim)
