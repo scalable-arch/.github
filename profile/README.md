@@ -4,6 +4,7 @@
 - [```AIDCLite```](https://github.com/scalable-arch/AIDCLite)
 
 ## [IITP] Smart ECC
+- [```Smart-ECC```](https://github.com/scalable-arch/Smart-ECC/tree/main)
 
 ## [RCMS] CXL
 - [```CXL CACHE```](https://github.com/scalable-arch/CXL_CACHE)
