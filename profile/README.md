@@ -89,7 +89,7 @@
 - [DRAM-exercise](https://github.com/scalable-arch/DRAM-exercise)
 - [ECC-exercise](https://github.com/scalable-arch/ECC-exercise)
 - [DNN-exercise](https://github.com/scalable-arch/DNN-exercise)
-- [DDR2 Memory Controller (URP2022F)](https://github.com/scalable-arch/URP2022F-assignment)
+- [DDR2 Memory Controller (URP2022F)_Final version](https://github.com/scalable-arch/URP2022F-assignment)
 - [DRAM Controller](https://github.com/scalable-arch/DRAMController)
 - [URP2022F](https://github.com/scalable-arch/URP2022F)
 
