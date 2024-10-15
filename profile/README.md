@@ -17,6 +17,10 @@
 ## Samsung
 - [2022 samsung project](https://github.com/scalable-arch/2022_samsung_project)
 
+## SAIT
+- [```CRC```](https://github.com/scalable-arch/SAIT_CRC)
+- [```DRC```](https://github.com/scalable-arch/SAIT_DRC)
+
 # Research Repositories
 
 
